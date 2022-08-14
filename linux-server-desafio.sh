@@ -37,8 +37,8 @@ sudo cp -r linux-server-desafio.sh DESAFIO-LINUX-DIO2
 echo '*****************Subindo o repositório para o github************'
 
 cd DESAFIO-LINUX-DIO2
-git config --global user.name 'MVinicius'
-git config --global user.email 'mvs_tj14@hotmail.com'
+git config --global user.name 'Seu nome'
+git config --global user.email 'Seu email'
 git add *
 git commit -m 'First commit'
 git push
